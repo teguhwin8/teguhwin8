@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @teguhwin8
-- 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on any project with NextJS or ReactJS
+- 👀 I’m interested in Fullstack Web Developer
+- 🌱 I’m currently build FreeWA (open source)
 - 📫 How to reach me you can email me at teguhwin8@gmail.com
 
 <!---
