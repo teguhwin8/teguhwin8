@@ -1,58 +1,42 @@
-# Halo, saya Teguh 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Teguh Widodo, Fullstack Developer" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Fullstack developer · 6+ tahun · Next.js, React, TypeScript, Laravel, NestJS**
+I build web apps and internal tools for businesses, and help agencies ship client work.
+6+ years with Next.js, React, Laravel and NestJS.
 
-Saya membangun sistem yang mengurangi kerja manual di bisnis: pencatatan penjualan, invoice, stok, laporan, dan otomatisasi WhatsApp. Targetnya, pekerjaan yang biasanya diketik ulang dari Excel atau chat bisa berjalan sendiri.
+[teguhcoding.com](https://teguhcoding.com) · [WhatsApp](https://wa.me/6285868474405) · [teguhwin8@gmail.com](mailto:teguhwin8@gmail.com)
 
-🌐 [teguhcoding.com](https://teguhcoding.com) · 💬 [WhatsApp 0858-6847-4405](https://wa.me/6285868474405) · ✉️ teguhwin8@gmail.com
+[![Stack](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,laravel,postgres,supabase,prisma,redis,docker,tailwind)](https://skillicons.dev)
 
----
+### Selected work
 
-## Yang bisa saya bantu
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://quranonline.teguhcoding.com"><img src="assets/quran.jpg" alt="Quran Online"></a>
+      <br><b><a href="https://quranonline.teguhcoding.com">Quran Online</a></b>
+      <br>Quran reader with audio recitation and AI Q&amp;A.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/teguhwin8/freewa"><img src="assets/freewa.svg" alt="FreeWA"></a>
+      <br><b><a href="https://github.com/teguhwin8/freewa">FreeWA</a></b>
+      <br>Self-hosted WhatsApp gateway with a message queue.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tobiasconsulting.co.id"><img src="assets/tobias.jpg" alt="Tobias Consulting"></a>
+      <br><b><a href="https://tobiasconsulting.co.id">Tobias Consulting</a></b>
+      <br>Company website for an ISO and cybersecurity consultancy.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://cindy-olive.vercel.app"><img src="assets/voridash.jpg" alt="Voridash"></a>
+      <br><b><a href="https://cindy-olive.vercel.app">Voridash</a></b>
+      <br>Sales, stock and forecasting dashboard for small food businesses.
+    </td>
+  </tr>
+</table>
 
-**Untuk pemilik usaha**
-- **Sistem operasional:** pencatatan penjualan, kasir, stok, invoice, dan laporan harian untuk menggantikan rekap manual di Excel/buku
-- **Otomatisasi WhatsApp:** notifikasi, pengingat, dan pengelolaan kontak/pesan yang terhubung dengan data bisnis
-- **Dashboard & AI:** ringkasan penjualan, peramalan, dan asisten AI di atas data yang sudah ada
-
-**Untuk agency / software house**
-- **Subkontrak white-label:** modul frontend/backend atau fitur lengkap, harga tetap per modul, kode diserahkan bersih ke repo Anda
-
----
-
-## Proyek pilihan
-
-### 📖 Quran Online Indonesia
-Al-Quran digital dengan terjemahan Indonesia, audio murottal per ayat, **AI tanya jawab**, export PDF, serta PWA dan SEO yang siap produksi.
-`Next.js 16` `React 19` `Vercel AI SDK` · [Demo](https://quranonline.teguhcoding.com) · [Repo](https://github.com/teguhwin8/quranonline.id)
-
-### 💬 FreeWA: Open Source WhatsApp Gateway
-Gateway WhatsApp multi-device dengan sistem antrean (BullMQ/Redis) untuk pengiriman stabil dan volume tinggi, QR realtime via WebSocket, REST API, dan dashboard antrean. Bisa dijalankan dengan satu perintah Docker.
-`NestJS` `Next.js` `BullMQ` `Redis` `PostgreSQL` `Docker` · [Repo](https://github.com/teguhwin8/freewa)
-
-### 🏢 Tobias Consulting: Company Website
-Website perusahaan konsultan ISO, cybersecurity, dan transformasi digital, dengan konten yang dikelola lewat CMS.
-`Next.js` `Portable Text CMS` · [Website](https://v0-tobias-consulting-website.vercel.app)
-
-### 🐟 Voridash: Dashboard Penjualan UMKM Berbasis AI
-Dashboard kasir, stok, peramalan penjualan, dan promosi untuk UMKM olahan perikanan. Tetap bisa dipakai **offline** (PWA + IndexedDB), dengan rekomendasi berbasis AI.
-`Next.js 16` `Supabase` `PostgreSQL` `Recharts` `OpenAI` · [Demo](https://cindy-olive.vercel.app)
-
-### 🎙️ Robo: AI Voice Chat Real-time + Admin Dashboard
-Voice chat real-time dengan asisten AI (WebRTC dan streaming audio dua arah), avatar video, dan dashboard admin untuk mengelola persona, voice cloning, pengguna, serta hak akses berbasis role.
-`Next.js 16` `OpenAI Realtime` `Cartesia` `Prisma` `PostgreSQL` · [Demo](https://robo-beta-one.vercel.app)
-
----
-
-## Stack
-
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS · shadcn/ui
-**Backend:** NestJS · Node.js · Laravel · REST API · WebSocket
-**Data:** PostgreSQL · Supabase · Prisma · Redis · BullMQ
-**Integrasi:** WhatsApp · OpenAI / Vercel AI SDK · Digiflazz · n8n
-**Infra:** Docker · Vercel
-
----
-
-📬 **Punya proses bisnis yang masih manual, atau proyek yang butuh tambahan tenaga?**
-Chat [WhatsApp 0858-6847-4405](https://wa.me/6285868474405) atau email **teguhwin8@gmail.com**. Ceritakan masalahnya, dan saya balas dengan estimasi harga tetap.
+Have a project or need an extra developer? [Message me on WhatsApp](https://wa.me/6285868474405).
