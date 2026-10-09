@@ -16,7 +16,7 @@
   <text x="64" y="212" fill="#59636e" font-size="28">Fullstack Developer · Indonesia</text>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#1a7f37" text-anchor="end">
     <text x="1216" y="132">next.js</text>
-    <text x="1216" y="166" fill="#0969da">laravel</text>
+    <text x="1216" y="166" fill="#0969da">react</text>
     <text x="1216" y="200" fill="#8250df">nest.js</text>
   </g>
 </svg>

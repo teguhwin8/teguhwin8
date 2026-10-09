@@ -4,11 +4,11 @@
 </picture>
 
 I build web apps and internal tools for businesses, and help agencies ship client work.
-6+ years with Next.js, React, Laravel and NestJS.
+6+ years with Next.js, React and NestJS.
 
 [teguhcoding.com](https://teguhcoding.com) · [WhatsApp](https://wa.me/6285868474405) · [teguhwin8@gmail.com](mailto:teguhwin8@gmail.com)
 
-[![Stack](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,laravel,postgres,supabase,prisma,redis,docker,tailwind)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,nestjs,postgres,supabase,prisma,redis,docker,tailwind)](https://skillicons.dev)
 
 ### Selected work
 
